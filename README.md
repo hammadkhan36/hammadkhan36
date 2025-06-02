@@ -1,9 +1,9 @@
 ## Hi there 👋
-# 👋 Hi, I'm Ahmad — React.js Developer
+# 👋 Hi, I'm Hammad Khan — React.js Developer
 
 🚀 Currently building modern UIs with **React.js** + **Supabase**  
 🎓 BBA Student | 💼 Working in a startup | 🤝 Open to freelance & collab  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Instagram](https://instagram.com/yourname)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/xhamad-khan/) | [Instagram](https://www.instagram.com/xhamad.khan/)
 <!--
 ## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
