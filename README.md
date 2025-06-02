@@ -4,6 +4,16 @@
 🚀 Currently building modern UIs with **React.js** + **Supabase**  
 🎓 BBA Student | 💼 Working in a startup | 🤝 Open to freelance & collab  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/xhamad-khan/) | [Instagram](https://www.instagram.com/xhamad.khan/)
+
+---
+
+## 📌 Featured Project
+
+### 🗂️ [Attock Directory](https://hammadkhan36.github.io/attock-directory-preview/)
+A React-based web app to explore city-based business directories.  
+Built with Supabase and deployed via GitHub Pages.
+
+---
 <!--
 ## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -16,6 +26,14 @@
 - 🔐 **Attock Directory** – React + Supabase (Private)
 - ⚡ Portfolio site coming soon!
 - 📱 UI/UX focused components library (In Progress)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/xhamad-khan/)
+- [Instagram](https://www.instagram.com/xhamad.khan/)
+- 📧 Email: hammadkhan16333@gmail.com
 
 <!--## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
